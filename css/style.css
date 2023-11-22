@@ -1,0 +1,35 @@
+.main1 {
+	width: 100%;
+	height: 100%;
+	background-image: url(2k.png);
+}
+.main2-active {
+	width: 100%;
+	height: 100%;
+	background-image: url(2k.png);
+}
+.main3 {
+	width: 100%;
+	height: 100%;
+	background-image: url(2k.png);
+}
+
+.cube1 {
+	width: 500px;
+	height: 500px;
+	background-image: url(mark2.png);	
+}
+.cube2 {
+	width: 100%;
+	height: 100%;
+	background-image: url(livsey.gif);	
+}
+.cube3 {
+	width: 100%;
+	height: 100%;
+	background-image: url(1.png);	
+}
+
+.circle1 {
+	background-image: url(1.png);
+}
